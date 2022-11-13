@@ -1,5 +1,7 @@
 site_name: Wiki
 theme:
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.expand
     - toc.follow
@@ -70,3 +72,6 @@ extra_javascript:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css
+
+repo_url: https://github.com/JuniMay/wiki
+repo_name: JuniMay/wiki
