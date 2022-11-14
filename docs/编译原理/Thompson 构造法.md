@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Thompson 构造法
 
 Thompson 构造法[^1]将一个正则表达式转化为一个与之等价的非确定有限状态机（NFA）。
