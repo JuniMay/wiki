@@ -1,5 +1,6 @@
 site_name: Wiki
 theme:
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   features:
