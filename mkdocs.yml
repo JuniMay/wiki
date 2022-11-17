@@ -12,6 +12,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
+      accent: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
@@ -63,6 +64,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.critic
 
 extra_javascript:
   - javascripts/mathjax.js
